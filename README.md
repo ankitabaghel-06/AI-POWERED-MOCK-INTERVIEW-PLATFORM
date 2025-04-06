@@ -7,33 +7,81 @@ This is an advanced and interactive AI-powered mock interview platform designed 
 
 
 
-Features
+=>Features
 
 
 AI-driven Interview: interview questions and feedback powered by AI.
+
+
+
 Personalized Interview Experiences: Tailor interview sessions based on job roles and industries.
+
+
+
 User Experience Level Questions: Questions are adjusted based on the user's experience level, ensuring relevance and appropriate difficulty.
+
+
+
 Detailed Feedback and Insights: Receive detailed feedback on your performance, including strengths, areas for improvement, and actionable tips.
+
+
+
+
 Question Bank: Access a wide range of interview questions across different domains and difficulty levels.
+
+
+
 Overall Grade: Receive an overall grade for each interview session, providing a quick assessment of your performance.
+
+
+
+
 Recent Interviews: Easily access and review your recent interview sessions directly from the home page.
 
 
 
 
 
-Getting Started
+Getting Started   =>
+
+
+
 To get started with the AI-Powered Mock Interview Platform, follow these steps:
+
+
+
+
 
 Clone this repository:
 
+
+
 git clone https://github.com/modamaan/Ai-mock-Interview.git
+
+
+
 Navigate to the project directory:
 
+
+
 cd ai-mock-interview
+
+
+
+
 Install dependencies by running: npm install or yarn install
 
+
+
+
+
+
 Start the Server npm run dev or yarn dev
+
+
+
+
+
 
 Access the Application: Open your browser and go to http://localhost:3000 to access the application.
 
@@ -46,9 +94,25 @@ Technologies Used
 
 
 Next.js: A React framework for building server-side rendered and static web applications.
+
+
+
+
 Gemini API: Provides an interface for accessing the AI interview functionalities.
+
+
+
+
+
 PostgreSQL: A powerful, open-source object-relational database system.
+
+
+
 Neon Serverless: A serverless deployment for PostgreSQL, offering scalability and ease of use.
+
+
+
+
 Drizzle ORM: An ORM that makes database interactions simpler and more intuitive.
 
 
