@@ -1,6 +1,6 @@
 # AI-POWERED-MOCK-INTERVIEW-PLATFORM
 
-Description
+=>Description
 
 
 This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and improve their interview skills. Built with Next.js, Tailwind CSS, and Gemini Api,PostgreSQL, Drizzle ORM, it provides users with a good interview experience to enhance their chances of landing their dream job.
@@ -42,7 +42,11 @@ Recent Interviews: Easily access and review your recent interview sessions direc
 
 
 
-Getting Started   =>
+
+
+
+=>Getting Started  
+
 
 
 
@@ -89,7 +93,9 @@ Access the Application: Open your browser and go to http://localhost:3000 to acc
 
 
 
-Technologies Used
+=>Technologies Used
+
+
 
 
 
