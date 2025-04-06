@@ -45,7 +45,20 @@ Recent Interviews: Easily access and review your recent interview sessions direc
 
 
 
+
+
+
+
+
+
+
 =>Getting Started  
+
+
+
+
+
+
 
 
 
@@ -93,7 +106,23 @@ Access the Application: Open your browser and go to http://localhost:3000 to acc
 
 
 
+
+
+
+
+
 =>Technologies Used
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -124,7 +153,17 @@ Drizzle ORM: An ORM that makes database interactions simpler and more intuitive.
 
 
 
-Usage
+
+
+
+=>Usage
+
+
+
+
+
+
+
 
 
 To use the AI-Powered Mock Interview Platform, follow these guidelines:
